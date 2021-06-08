@@ -9,7 +9,4 @@ Name | Number
 -----|-------
 Geethika|8466021784
 
-'''python
-def python():
-   print("hai")
-'''   
+   
